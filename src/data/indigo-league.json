@@ -1,0 +1,5057 @@
+{
+ "season": "Indigo League",
+ "episodes": [
+  {
+   "episode": 1,
+   "code": "EP001",
+   "title": "Pokémon, I Choose You!",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Spearow",
+     "dex": 21
+    },
+    {
+     "name": "Fearow",
+     "dex": 22
+    },
+    {
+     "name": "Rattata",
+     "dex": 19
+    },
+    {
+     "name": "Pidgey",
+     "dex": 16
+    },
+    {
+     "name": "Gyarados",
+     "dex": 130
+    },
+    {
+     "name": "Ho-Oh",
+     "dex": 250
+    },
+    {
+     "name": "Nidorino",
+     "dex": 33
+    },
+    {
+     "name": "Gengar",
+     "dex": 94
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Poliwag",
+     "dex": 60
+    },
+    {
+     "name": "Magikarp",
+     "dex": 129
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Peck",
+    "Drill Peck",
+    "Tackle",
+    "Gust",
+    "Hyper Beam",
+    "Sacred Fire",
+    "Horn Attack",
+    "Night Shade",
+    "Stun Spore",
+    "Bubble",
+    "Splash",
+    "Thunderbolt",
+    "Fury Attack",
+    "Hyper Fang",
+    "Sand-Attack",
+    "Dragon Rage",
+    "Double Kick",
+    "Hypnosis",
+    "Sleep Powder",
+    "Water Gun",
+    "Thunder",
+    "Leer",
+    "Quick Attack",
+    "Hydro Pump",
+    "Shadow Ball",
+    "Poisonpowder",
+    "Bite",
+    "Lick",
+    "Agility"
+   ]
+  },
+  {
+   "episode": 2,
+   "code": "EP002",
+   "title": "Pokémon Emergency!",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Rattata",
+     "dex": 19
+    },
+    {
+     "name": "Raticate",
+     "dex": 20
+    },
+    {
+     "name": "Pidgey",
+     "dex": 16
+    },
+    {
+     "name": "Chansey",
+     "dex": 113
+    },
+    {
+     "name": "Spearow",
+     "dex": 21
+    },
+    {
+     "name": "Clefairy",
+     "dex": 35
+    },
+    {
+     "name": "Poliwag",
+     "dex": 60
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Tackle",
+    "Hyper Fang",
+    "Gust",
+    "Egg Bomb",
+    "Peck",
+    "Metronome",
+    "Bubble",
+    "Thunderbolt",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Super Fang",
+    "Sand-Attack",
+    "Softboiled",
+    "Fury Attack",
+    "Doubleslap",
+    "Water Gun",
+    "Thunder",
+    "Bite",
+    "Pay Day",
+    "Quick Attack",
+    "Leer",
+    "Sing",
+    "Hypnosis",
+    "Glare",
+    "Smog"
+   ]
+  },
+  {
+   "episode": 3,
+   "code": "EP003",
+   "title": "Ash Catches a Pokémon",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Caterpie",
+     "dex": 10
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Pidgey",
+     "dex": 16
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Metapod",
+     "dex": 11
+    },
+    {
+     "name": "Weedle",
+     "dex": 13
+    },
+    {
+     "name": "Spearow",
+     "dex": 21
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "String Shot",
+    "Gust",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Harden",
+    "Poison Sting",
+    "Peck",
+    "Thunderbolt",
+    "Tackle",
+    "Whirlwind",
+    "Sand-Attack",
+    "Sludge",
+    "Scratch",
+    "Fury Attack",
+    "Thunder",
+    "Quick Attack",
+    "Bite",
+    "Pay Day",
+    "Leer",
+    "Wing Attack",
+    "Glare",
+    "Smog",
+    "Agility",
+    "Acid",
+    "Tail Whip"
+   ]
+  },
+  {
+   "episode": 4,
+   "code": "EP004",
+   "title": "Challenge of the Samurai",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Metapod",
+     "dex": 11
+    },
+    {
+     "name": "Pinsir",
+     "dex": 127
+    },
+    {
+     "name": "Weedle",
+     "dex": 13
+    },
+    {
+     "name": "Kakuna",
+     "dex": 14
+    },
+    {
+     "name": "Beedrill",
+     "dex": 15
+    },
+    {
+     "name": "Caterpie",
+     "dex": 10
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Harden",
+    "Vicegrip",
+    "Poison Sting",
+    "Twineedle",
+    "String Shot",
+    "Gust",
+    "Stun Spore",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Tackle",
+    "Guillotine",
+    "Fury Attack",
+    "Whirlwind",
+    "Sleep Powder",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Pin Missile",
+    "Quick Attack",
+    "Poisonpowder",
+    "Bite",
+    "Pay Day",
+    "Seismic Toss",
+    "Wing Attack",
+    "Glare",
+    "Smog",
+    "Agility"
+   ]
+  },
+  {
+   "episode": 5,
+   "code": "EP005",
+   "title": "Showdown in Pewter City",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Zubat",
+     "dex": 41
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Bind",
+    "Tackle",
+    "Gust",
+    "Stun Spore",
+    "Supersonic",
+    "Ember",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Rock Throw",
+    "Whirlwind",
+    "Sleep Powder",
+    "Leech Life",
+    "Quick Attack",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Defense Curl",
+    "Poisonpowder",
+    "Wing Attack",
+    "Tail Whip",
+    "Bite",
+    "Pay Day",
+    "Screech",
+    "Selfdestruct",
+    "Flamethrower",
+    "Glare"
+   ]
+  },
+  {
+   "episode": 6,
+   "code": "EP006",
+   "title": "Clefairy and the Moon Stone",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Clefairy",
+     "dex": 35
+    },
+    {
+     "name": "Clefable",
+     "dex": 36
+    },
+    {
+     "name": "Zubat",
+     "dex": 41
+    },
+    {
+     "name": "Paras",
+     "dex": 46
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Metronome",
+    "Supersonic",
+    "Stun Spore",
+    "Bind",
+    "Tackle",
+    "Gust",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Doubleslap",
+    "Sing",
+    "Leech Life",
+    "Scratch",
+    "Sleep Powder",
+    "Rock Throw",
+    "Whirlwind",
+    "Poison Sting",
+    "Sludge",
+    "Thunder",
+    "Wing Attack",
+    "Poisonpowder",
+    "Defense Curl",
+    "Quick Attack",
+    "Bite",
+    "Pay Day",
+    "Minimize",
+    "Spore",
+    "Screech"
+   ]
+  },
+  {
+   "episode": 7,
+   "code": "EP007",
+   "title": "The Water Flowers of Cerulean City",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Seel",
+     "dex": 86
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Horsea",
+     "dex": 116
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Water Gun",
+    "Headbutt",
+    "Horn Attack",
+    "Smokescreen",
+    "Stun Spore",
+    "Gust",
+    "Bind",
+    "Wrap",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Tackle",
+    "Aurora Beam",
+    "Supersonic",
+    "Bubble",
+    "Sleep Powder",
+    "Whirlwind",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Harden",
+    "Swift",
+    "Ice Beam",
+    "Waterfall",
+    "Poisonpowder",
+    "Quick Attack",
+    "Rock Throw",
+    "Bite",
+    "Pay Day"
+   ]
+  },
+  {
+   "episode": 8,
+   "code": "EP008",
+   "title": "The Path to the Pokémon League",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Sandshrew",
+     "dex": 27
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Scratch",
+    "Stun Spore",
+    "Gust",
+    "Water Gun",
+    "Bind",
+    "Tackle",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Defense Curl",
+    "Sleep Powder",
+    "Whirlwind",
+    "Rock Throw",
+    "Poison Sting",
+    "Sludge",
+    "Thunder",
+    "Sand-Attack",
+    "Poisonpowder",
+    "Quick Attack",
+    "Swift",
+    "Harden",
+    "Bite",
+    "Pay Day",
+    "Dig",
+    "Wing Attack",
+    "Bubblebeam",
+    "Screech",
+    "Selfdestruct"
+   ]
+  },
+  {
+   "episode": 9,
+   "code": "EP009",
+   "title": "The School of Hard Knocks",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Graveler",
+     "dex": 75
+    },
+    {
+     "name": "Cubone",
+     "dex": 104
+    },
+    {
+     "name": "Weepinbell",
+     "dex": 70
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Rock Throw",
+    "Bone Club",
+    "Razor Leaf",
+    "Water Gun",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Bind",
+    "Stun Spore",
+    "Gust",
+    "Thunderbolt",
+    "Rollout",
+    "Bonemerang",
+    "Vine Whip",
+    "Tackle",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Sleep Powder",
+    "Whirlwind",
+    "Thunder",
+    "Selfdestruct",
+    "Headbutt",
+    "Withdraw",
+    "Bite",
+    "Pay Day",
+    "Harden",
+    "Poisonpowder",
+    "Quick Attack"
+   ]
+  },
+  {
+   "episode": 10,
+   "code": "EP010",
+   "title": "Bulbasaur and the Hidden Village",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Oddish",
+     "dex": 43
+    },
+    {
+     "name": "Pidgey",
+     "dex": 16
+    },
+    {
+     "name": "Rattata",
+     "dex": 19
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Exeggcute",
+     "dex": 102
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Vine Whip",
+    "Absorb",
+    "Gust",
+    "Tackle",
+    "Water Gun",
+    "Horn Attack",
+    "Bind",
+    "Stun Spore",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Barrage",
+    "Thunderbolt",
+    "Acid",
+    "Sand-Attack",
+    "Hyper Fang",
+    "Supersonic",
+    "Sleep Powder",
+    "Whirlwind",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Hypnosis",
+    "Thunder",
+    "Leech Seed",
+    "Poisonpowder",
+    "Quick Attack",
+    "Withdraw",
+    "Waterfall"
+   ]
+  },
+  {
+   "episode": 11,
+   "code": "EP011",
+   "title": "Charmander – The Stray Pokémon",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Rattata",
+     "dex": 19
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Ember",
+    "Vine Whip",
+    "Stun Spore",
+    "Gust",
+    "Bind",
+    "Water Gun",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Tackle",
+    "Thunderbolt",
+    "Flamethrower",
+    "Sleep Powder",
+    "Whirlwind",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Hyper Fang",
+    "Thunder",
+    "Leech Seed",
+    "Poisonpowder",
+    "Quick Attack",
+    "Rock Throw",
+    "Swift",
+    "Harden",
+    "Bite",
+    "Pay Day",
+    "Razor Leaf",
+    "Wing Attack"
+   ]
+  },
+  {
+   "episode": 12,
+   "code": "EP012",
+   "title": "Here Comes the Squirtle Squad",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Water Gun",
+    "Ember",
+    "Vine Whip",
+    "Gust",
+    "Stun Spore",
+    "Bind",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Tackle",
+    "Flamethrower",
+    "Whirlwind",
+    "Sleep Powder",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Withdraw",
+    "Leech Seed",
+    "Quick Attack",
+    "Poisonpowder",
+    "Rock Throw",
+    "Harden",
+    "Bite",
+    "Pay Day",
+    "Bubble",
+    "Razor Leaf",
+    "Wing Attack"
+   ]
+  },
+  {
+   "episode": 13,
+   "code": "EP013",
+   "title": "Mystery at the Lighthouse",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Krabby",
+     "dex": 98
+    },
+    {
+     "name": "Kingler",
+     "dex": 99
+    },
+    {
+     "name": "Dragonite",
+     "dex": 149
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Bubble",
+    "Crabhammer",
+    "Hyper Beam",
+    "Water Gun",
+    "Ember",
+    "Vine Whip",
+    "Stun Spore",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Horn Attack",
+    "Thunderbolt",
+    "Vicegrip",
+    "Wing Attack",
+    "Flamethrower",
+    "Sleep Powder",
+    "Whirlwind",
+    "Rock Throw",
+    "Supersonic",
+    "Thunder",
+    "Harden",
+    "Thunder Wave",
+    "Withdraw",
+    "Scratch",
+    "Leech Seed",
+    "Poisonpowder",
+    "Quick Attack",
+    "Defense Curl",
+    "Waterfall"
+   ]
+  },
+  {
+   "episode": 14,
+   "code": "EP014",
+   "title": "Electric Shock Showdown",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Raichu",
+     "dex": 26
+    },
+    {
+     "name": "Krabby",
+     "dex": 98
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Thunderbolt",
+    "Bubble",
+    "Water Gun",
+    "Ember",
+    "Vine Whip",
+    "Stun Spore",
+    "Gust",
+    "Bind",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunder",
+    "Vicegrip",
+    "Tackle",
+    "Flamethrower",
+    "Sleep Powder",
+    "Whirlwind",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Body Slam",
+    "Harden",
+    "Withdraw",
+    "Leech Seed",
+    "Poisonpowder",
+    "Quick Attack",
+    "Rock Throw",
+    "Swift",
+    "Bite"
+   ]
+  },
+  {
+   "episode": 15,
+   "code": "EP015",
+   "title": "Battle Aboard the St. Anne",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Magikarp",
+     "dex": 129
+    },
+    {
+     "name": "Raticate",
+     "dex": 20
+    },
+    {
+     "name": "Venonat",
+     "dex": 48
+    },
+    {
+     "name": "Cloyster",
+     "dex": 91
+    },
+    {
+     "name": "Grimer",
+     "dex": 88
+    },
+    {
+     "name": "Rattata",
+     "dex": 19
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Splash",
+    "Hyper Fang",
+    "Psybeam",
+    "Spike Cannon",
+    "Sludge",
+    "Tackle",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Stun Spore",
+    "Bind",
+    "Thunderbolt",
+    "Super Fang",
+    "Clamp",
+    "Pound",
+    "Poison Sting",
+    "Scratch",
+    "Flamethrower",
+    "Sleep Powder",
+    "Thunder",
+    "Aurora Beam",
+    "Harden",
+    "Quick Attack",
+    "Bite",
+    "Pay Day",
+    "Withdraw"
+   ]
+  },
+  {
+   "episode": 16,
+   "code": "EP016",
+   "title": "Pokémon Shipwreck",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Magikarp",
+     "dex": 129
+    },
+    {
+     "name": "Gyarados",
+     "dex": 130
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Splash",
+    "Hyper Beam",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Stun Spore",
+    "Gust",
+    "Horn Attack",
+    "Bind",
+    "Tackle",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Dragon Rage",
+    "Flamethrower",
+    "Sleep Powder",
+    "Whirlwind",
+    "Supersonic",
+    "Rock Throw",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Hydro Pump",
+    "Withdraw",
+    "Leech Seed",
+    "Poisonpowder",
+    "Quick Attack"
+   ]
+  },
+  {
+   "episode": 17,
+   "code": "EP017",
+   "title": "Island of the Giant Pokémon",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Clefairy",
+     "dex": 35
+    },
+    {
+     "name": "Rapidash",
+     "dex": 78
+    },
+    {
+     "name": "Nidoking",
+     "dex": 34
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Stun Spore",
+    "Gust",
+    "Horn Attack",
+    "Bind",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Metronome",
+    "Fire Spin",
+    "Thrash",
+    "Thunderbolt",
+    "Tackle",
+    "Flamethrower",
+    "Sleep Powder",
+    "Whirlwind",
+    "Supersonic",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Doubleslap",
+    "Stomp",
+    "Horn Drill",
+    "Thunder",
+    "Withdraw",
+    "Leech Seed",
+    "Poisonpowder"
+   ]
+  },
+  {
+   "episode": 18,
+   "code": "EP018",
+   "title": "Beauty and the Beach",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Gyarados",
+     "dex": 130
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Tentacool",
+     "dex": 72
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Hyper Beam",
+    "Water Gun",
+    "Horn Attack",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Stun Spore",
+    "Bind",
+    "Tackle",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Dragon Rage",
+    "Supersonic",
+    "Flamethrower",
+    "Whirlwind",
+    "Sleep Powder",
+    "Rock Throw",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Hydro Pump",
+    "Swift",
+    "Harden",
+    "Waterfall",
+    "Withdraw",
+    "Leech Seed"
+   ]
+  },
+  {
+   "episode": 19,
+   "code": "EP019",
+   "title": "Tentacool and Tentacruel",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Tentacool",
+     "dex": 72
+    },
+    {
+     "name": "Tentacruel",
+     "dex": 73
+    },
+    {
+     "name": "Horsea",
+     "dex": 116
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Wrap",
+    "Smokescreen",
+    "Water Gun",
+    "Horn Attack",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Stun Spore",
+    "Bind",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Poison Sting",
+    "Hydro Pump",
+    "Bubble",
+    "Tackle",
+    "Supersonic",
+    "Flamethrower",
+    "Whirlwind",
+    "Sleep Powder",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Acid",
+    "Constrict",
+    "Harden",
+    "Swift",
+    "Waterfall",
+    "Withdraw",
+    "Leech Seed"
+   ]
+  },
+  {
+   "episode": 20,
+   "code": "EP020",
+   "title": "The Ghost of Maiden's Peak",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Gastly",
+     "dex": 92
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Lick",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Stun Spore",
+    "Bind",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Night Shade",
+    "Tackle",
+    "Flamethrower",
+    "Whirlwind",
+    "Sleep Powder",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Hypnosis",
+    "Withdraw",
+    "Leech Seed",
+    "Quick Attack",
+    "Poisonpowder",
+    "Harden",
+    "Rock Throw",
+    "Bite",
+    "Pay Day"
+   ]
+  },
+  {
+   "episode": 21,
+   "code": "EP021",
+   "title": "Bye Bye Butterfree",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Butterfree",
+     "dex": 12
+    },
+    {
+     "name": "Beedrill",
+     "dex": 15
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Krabby",
+     "dex": 98
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Horsea",
+     "dex": 116
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Stun Spore",
+    "Twineedle",
+    "Gust",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Bubble",
+    "Bind",
+    "Tackle",
+    "Smokescreen",
+    "Wrap",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Sleep Powder",
+    "Fury Attack",
+    "Whirlwind",
+    "Flamethrower",
+    "Vicegrip",
+    "Rock Throw",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Poisonpowder",
+    "Pin Missile",
+    "Quick Attack",
+    "Withdraw",
+    "Leech Seed",
+    "Harden"
+   ]
+  },
+  {
+   "episode": 22,
+   "code": "EP022",
+   "title": "Abra and the Psychic Showdown",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Abra",
+     "dex": 63
+    },
+    {
+     "name": "Kadabra",
+     "dex": 64
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Horsea",
+     "dex": 116
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Haunter",
+     "dex": 93
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Teleport",
+    "Psychic",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Smokescreen",
+    "Wrap",
+    "Fury Swipes",
+    "Lick",
+    "Thunderbolt",
+    "Psybeam",
+    "Flamethrower",
+    "Whirlwind",
+    "Rock Throw",
+    "Bubble",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Night Shade",
+    "Thunder",
+    "Confusion",
+    "Withdraw",
+    "Leech Seed",
+    "Quick Attack",
+    "Defense Curl",
+    "Harden"
+   ]
+  },
+  {
+   "episode": 23,
+   "code": "EP023",
+   "title": "The Tower of Terror",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Gastly",
+     "dex": 92
+    },
+    {
+     "name": "Haunter",
+     "dex": 93
+    },
+    {
+     "name": "Gengar",
+     "dex": 94
+    },
+    {
+     "name": "Kadabra",
+     "dex": 64
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Lick",
+    "Night Shade",
+    "Psychic",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Hypnosis",
+    "Psybeam",
+    "Tackle",
+    "Flamethrower",
+    "Whirlwind",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Shadow Ball",
+    "Confusion",
+    "Withdraw",
+    "Leech Seed",
+    "Quick Attack",
+    "Rock Throw",
+    "Harden",
+    "Bite"
+   ]
+  },
+  {
+   "episode": 24,
+   "code": "EP024",
+   "title": "Haunter vs. Kadabra",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Haunter",
+     "dex": 93
+    },
+    {
+     "name": "Kadabra",
+     "dex": 64
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Horsea",
+     "dex": 116
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Lick",
+    "Psychic",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Smokescreen",
+    "Wrap",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Night Shade",
+    "Psybeam",
+    "Flamethrower",
+    "Whirlwind",
+    "Rock Throw",
+    "Bubble",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Hypnosis",
+    "Confusion",
+    "Withdraw",
+    "Leech Seed",
+    "Quick Attack",
+    "Defense Curl",
+    "Harden"
+   ]
+  },
+  {
+   "episode": 25,
+   "code": "EP025",
+   "title": "Primeape Goes Bananas",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Mankey",
+     "dex": 56
+    },
+    {
+     "name": "Primeape",
+     "dex": 57
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Horsea",
+     "dex": 116
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Karate Chop",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Smokescreen",
+    "Wrap",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Low Kick",
+    "Seismic Toss",
+    "Flamethrower",
+    "Whirlwind",
+    "Rock Throw",
+    "Bubble",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Withdraw",
+    "Leech Seed",
+    "Quick Attack",
+    "Defense Curl",
+    "Harden",
+    "Bite",
+    "Pay Day",
+    "Thrash"
+   ]
+  },
+  {
+   "episode": 26,
+   "code": "EP026",
+   "title": "Pokémon Scent-sation!",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Oddish",
+     "dex": 43
+    },
+    {
+     "name": "Gloom",
+     "dex": 44
+    },
+    {
+     "name": "Vileplume",
+     "dex": 45
+    },
+    {
+     "name": "Bellsprout",
+     "dex": 69
+    },
+    {
+     "name": "Weepinbell",
+     "dex": 70
+    },
+    {
+     "name": "Tangela",
+     "dex": 114
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Primeape",
+     "dex": 57
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Absorb",
+    "Acid",
+    "Petal Dance",
+    "Vine Whip",
+    "Razor Leaf",
+    "Bind",
+    "Ember",
+    "Water Gun",
+    "Karate Chop",
+    "Gust",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Stun Spore",
+    "Constrict",
+    "Flamethrower",
+    "Tackle",
+    "Seismic Toss",
+    "Whirlwind",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Poisonpowder",
+    "Sleep Powder",
+    "Growth",
+    "Withdraw",
+    "Leech Seed"
+   ]
+  },
+  {
+   "episode": 27,
+   "code": "EP027",
+   "title": "Hypno's Naptime",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Hypno",
+     "dex": 97
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Drowzee",
+     "dex": 96
+    },
+    {
+     "name": "Clefairy",
+     "dex": 35
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Primeape",
+     "dex": 57
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Hypnosis",
+    "Confusion",
+    "Metronome",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Karate Chop",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Psychic",
+    "Disable",
+    "Doubleslap",
+    "Flamethrower",
+    "Seismic Toss",
+    "Whirlwind",
+    "Rock Throw",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Sing",
+    "Withdraw",
+    "Leech Seed",
+    "Low Kick"
+   ]
+  },
+  {
+   "episode": 28,
+   "code": "EP028",
+   "title": "Pokémon Fashion Flash",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Growlithe",
+     "dex": 58
+    },
+    {
+     "name": "Sandshrew",
+     "dex": 27
+    },
+    {
+     "name": "Arcanine",
+     "dex": 59
+    },
+    {
+     "name": "Ninetales",
+     "dex": 38
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Ember",
+    "Scratch",
+    "Flamethrower",
+    "Fire Spin",
+    "Water Gun",
+    "Vine Whip",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Quick Attack",
+    "Bite",
+    "Defense Curl",
+    "ExtremeSpeed",
+    "Tackle",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Thunder",
+    "Tail Whip",
+    "Take Down",
+    "Sand-Attack",
+    "Confuse Ray",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Harden"
+   ]
+  },
+  {
+   "episode": 29,
+   "code": "EP029",
+   "title": "The Punchy Pokémon",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Hitmonlee",
+     "dex": 106
+    },
+    {
+     "name": "Hitmonchan",
+     "dex": 107
+    },
+    {
+     "name": "Primeape",
+     "dex": 57
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Hi Jump Kick",
+    "Fire Punch",
+    "Karate Chop",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Mega Kick",
+    "Ice Punch",
+    "Seismic Toss",
+    "Tackle",
+    "Flamethrower",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Double Kick",
+    "Thunderpunch",
+    "Low Kick",
+    "Withdraw"
+   ]
+  },
+  {
+   "episode": 30,
+   "code": "EP030",
+   "title": "Sparks Fly for Magnemite",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Magnemite",
+     "dex": 81
+    },
+    {
+     "name": "Magneton",
+     "dex": 82
+    },
+    {
+     "name": "Grimer",
+     "dex": 88
+    },
+    {
+     "name": "Muk",
+     "dex": 89
+    },
+    {
+     "name": "Voltorb",
+     "dex": 100
+    },
+    {
+     "name": "Raichu",
+     "dex": 26
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Thunderbolt",
+    "Sludge",
+    "Selfdestruct",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Sonicboom",
+    "Tri Attack",
+    "Pound",
+    "Body Slam",
+    "Explosion",
+    "Thunder",
+    "Tackle",
+    "Flamethrower",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Scratch",
+    "Supersonic",
+    "Zap Cannon",
+    "Harden",
+    "Minimize",
+    "Withdraw",
+    "Leech Seed"
+   ]
+  },
+  {
+   "episode": 31,
+   "code": "EP031",
+   "title": "Dig Those Diglett!",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Diglett",
+     "dex": 50
+    },
+    {
+     "name": "Dugtrio",
+     "dex": 51
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Dig",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Confusion",
+    "Horn Attack",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Scratch",
+    "Earthquake",
+    "Flamethrower",
+    "Whirlwind",
+    "Rock Throw",
+    "Quick Attack",
+    "Disable",
+    "Supersonic",
+    "Poison Sting",
+    "Sludge",
+    "Thunder",
+    "Sand-Attack",
+    "Tri Attack",
+    "Withdraw",
+    "Leech Seed",
+    "Defense Curl"
+   ]
+  },
+  {
+   "episode": 32,
+   "code": "EP032",
+   "title": "The Ninja Poké-Showdown",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Venonat",
+     "dex": 48
+    },
+    {
+     "name": "Venomoth",
+     "dex": 49
+    },
+    {
+     "name": "Golbat",
+     "dex": 42
+    },
+    {
+     "name": "Voltorb",
+     "dex": 100
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Psybeam",
+    "Supersonic",
+    "Selfdestruct",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Stun Spore",
+    "Wing Attack",
+    "Explosion",
+    "Tackle",
+    "Flamethrower",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Leech Life",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw"
+   ]
+  },
+  {
+   "episode": 33,
+   "code": "EP033",
+   "title": "The Flame Pokémon-athon!",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Ponyta",
+     "dex": 77
+    },
+    {
+     "name": "Rapidash",
+     "dex": 78
+    },
+    {
+     "name": "Dodrio",
+     "dex": 85
+    },
+    {
+     "name": "Doduo",
+     "dex": 84
+    },
+    {
+     "name": "Rhyhorn",
+     "dex": 111
+    },
+    {
+     "name": "Nidoking",
+     "dex": 34
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Arcanine",
+     "dex": 59
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Ember",
+    "Fire Spin",
+    "Tri Attack",
+    "Peck",
+    "Horn Attack",
+    "Thrash",
+    "Water Gun",
+    "Vine Whip",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Flamethrower",
+    "Thunderbolt",
+    "Stomp",
+    "Drill Peck",
+    "Horn Drill",
+    "Tackle",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "ExtremeSpeed",
+    "Thunder",
+    "Agility",
+    "Fury Attack",
+    "Double Kick"
+   ]
+  },
+  {
+   "episode": 34,
+   "code": "EP034",
+   "title": "The Kangaskhan Kid",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Kangaskhan",
+     "dex": 115
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Comet Punch",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Mega Punch",
+    "Flamethrower",
+    "Whirlwind",
+    "Rock Throw",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Rage",
+    "Withdraw",
+    "Leech Seed",
+    "Defense Curl",
+    "Tail Whip",
+    "Harden",
+    "Bite"
+   ]
+  },
+  {
+   "episode": 35,
+   "code": "EP035",
+   "title": "The Legend of Dratini",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Dratini",
+     "dex": 147
+    },
+    {
+     "name": "Dragonair",
+     "dex": 148
+    },
+    {
+     "name": "Tauros",
+     "dex": 128
+    },
+    {
+     "name": "Rhyhorn",
+     "dex": 111
+    },
+    {
+     "name": "Exeggutor",
+     "dex": 103
+    },
+    {
+     "name": "Kangaskhan",
+     "dex": 115
+    },
+    {
+     "name": "Nidorino",
+     "dex": 33
+    },
+    {
+     "name": "Venonat",
+     "dex": 48
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Wrap",
+    "Dragon Rage",
+    "Take Down",
+    "Horn Attack",
+    "Stomp",
+    "Comet Punch",
+    "Psybeam",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Bind",
+    "Confusion",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Egg Bomb",
+    "Mega Punch",
+    "Double Kick",
+    "Stun Spore",
+    "Tackle",
+    "Flamethrower",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Twister"
+   ]
+  },
+  {
+   "episode": 36,
+   "code": "EP036",
+   "title": "The Bridge Bike Gang",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Golbat",
+     "dex": 42
+    },
+    {
+     "name": "Grimer",
+     "dex": 88
+    },
+    {
+     "name": "Muk",
+     "dex": 89
+    },
+    {
+     "name": "Weezing",
+     "dex": 110
+    },
+    {
+     "name": "Tentacruel",
+     "dex": 73
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Supersonic",
+    "Sludge",
+    "Smokescreen",
+    "Wrap",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Confusion",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Wing Attack",
+    "Pound",
+    "Body Slam",
+    "Hydro Pump",
+    "Tackle",
+    "Flamethrower",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Scratch",
+    "Thunder",
+    "Leech Life",
+    "Harden",
+    "Minimize",
+    "Constrict",
+    "Withdraw"
+   ]
+  },
+  {
+   "episode": 37,
+   "code": "EP037",
+   "title": "Ditto's Mysterious Mansion",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Ditto",
+     "dex": 132
+    },
+    {
+     "name": "Clefairy",
+     "dex": 35
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Transform",
+    "Metronome",
+    "Gust",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Doubleslap",
+    "Whirlwind",
+    "Tackle",
+    "Flamethrower",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Sing",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Tail Whip",
+    "Harden",
+    "Bite"
+   ]
+  },
+  {
+   "episode": 38,
+   "code": "EP038",
+   "title": "Electric Soldier Porygon",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Porygon",
+     "dex": 137
+    },
+    {
+     "name": "Chansey",
+     "dex": 113
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Tri Attack",
+    "Egg Bomb",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Psybeam",
+    "Softboiled",
+    "Tackle",
+    "Flamethrower",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Conversion",
+    "Doubleslap",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Tail Whip",
+    "Harden",
+    "Bite"
+   ]
+  },
+  {
+   "episode": 39,
+   "code": "EP039",
+   "title": "Pikachu's Goodbye",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Raichu",
+     "dex": 26
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Thunderbolt",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunder",
+    "Tackle",
+    "Flamethrower",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Body Slam",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Tail Whip",
+    "Harden",
+    "Bite",
+    "Pay Day",
+    "Mega Punch",
+    "Bubble"
+   ]
+  },
+  {
+   "episode": 40,
+   "code": "EP040",
+   "title": "The Battling Eevee Brothers",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Eevee",
+     "dex": 133
+    },
+    {
+     "name": "Vaporeon",
+     "dex": 134
+    },
+    {
+     "name": "Jolteon",
+     "dex": 135
+    },
+    {
+     "name": "Flareon",
+     "dex": 136
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Tackle",
+    "Water Gun",
+    "Pin Missile",
+    "Ember",
+    "Vine Whip",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Quick Attack",
+    "Hydro Pump",
+    "Flamethrower",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Sand-Attack",
+    "Acid Armor",
+    "Double Kick",
+    "Smog",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Tail Whip",
+    "Harden",
+    "Bite"
+   ]
+  },
+  {
+   "episode": 41,
+   "code": "EP041",
+   "title": "Wake Up Snorlax!",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Snorlax",
+     "dex": 143
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Body Slam",
+    "Water Gun",
+    "Vine Whip",
+    "Ember",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Confusion",
+    "Horn Attack",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Rest",
+    "Flamethrower",
+    "Whirlwind",
+    "Rock Throw",
+    "Quick Attack",
+    "Disable",
+    "Supersonic",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Headbutt",
+    "Withdraw",
+    "Leech Seed",
+    "Defense Curl",
+    "Tail Whip"
+   ]
+  },
+  {
+   "episode": 42,
+   "code": "EP042",
+   "title": "Showdown at Dark City",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Scyther",
+     "dex": 123
+    },
+    {
+     "name": "Electabuzz",
+     "dex": 125
+    },
+    {
+     "name": "Kingler",
+     "dex": 99
+    },
+    {
+     "name": "Rhydon",
+     "dex": 112
+    },
+    {
+     "name": "Ivysaur",
+     "dex": 2
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Slash",
+    "Thunderpunch",
+    "Crabhammer",
+    "Horn Drill",
+    "Vine Whip",
+    "Water Gun",
+    "Ember",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Swords Dance",
+    "Vicegrip",
+    "Fury Attack",
+    "Razor Leaf",
+    "Tackle",
+    "Flamethrower",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Bubble",
+    "Take Down",
+    "Solarbeam",
+    "Withdraw"
+   ]
+  },
+  {
+   "episode": 43,
+   "code": "EP043",
+   "title": "The March of the Exeggutor Squad",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Exeggcute",
+     "dex": 102
+    },
+    {
+     "name": "Exeggutor",
+     "dex": 103
+    },
+    {
+     "name": "Charmander",
+     "dex": 4
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Barrage",
+    "Stomp",
+    "Ember",
+    "Flamethrower",
+    "Water Gun",
+    "Vine Whip",
+    "Gust",
+    "Bind",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Hypnosis",
+    "Egg Bomb",
+    "Slash",
+    "Tackle",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Scary Face",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Tail Whip"
+   ]
+  },
+  {
+   "episode": 44,
+   "code": "EP044",
+   "title": "The Problem with Paras",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Paras",
+     "dex": 46
+    },
+    {
+     "name": "Parasect",
+     "dex": 47
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Stun Spore",
+    "Spore",
+    "Flamethrower",
+    "Water Gun",
+    "Vine Whip",
+    "Gust",
+    "Bind",
+    "Ember",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Scratch",
+    "Slash",
+    "Tackle",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Thunder",
+    "Leech Life",
+    "Scary Face",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Tail Whip",
+    "Harden"
+   ]
+  },
+  {
+   "episode": 45,
+   "code": "EP045",
+   "title": "The Song of Jigglypuff",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Jigglypuff",
+     "dex": 39
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Geodude",
+     "dex": 74
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Sing",
+    "Water Gun",
+    "Vine Whip",
+    "Flamethrower",
+    "Gust",
+    "Bind",
+    "Tackle",
+    "Ember",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Pound",
+    "Slash",
+    "Whirlwind",
+    "Rock Throw",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Doubleslap",
+    "Withdraw",
+    "Leech Seed",
+    "Scary Face",
+    "Defense Curl",
+    "Tail Whip"
+   ]
+  },
+  {
+   "episode": 46,
+   "code": "EP046",
+   "title": "Attack of the Prehistoric Pokémon",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Aerodactyl",
+     "dex": 142
+    },
+    {
+     "name": "Omanyte",
+     "dex": 138
+    },
+    {
+     "name": "Omastar",
+     "dex": 139
+    },
+    {
+     "name": "Kabuto",
+     "dex": 140
+    },
+    {
+     "name": "Kabutops",
+     "dex": 141
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Wing Attack",
+    "Water Gun",
+    "Hydro Pump",
+    "Scratch",
+    "Slash",
+    "Flamethrower",
+    "Vine Whip",
+    "Gust",
+    "Bind",
+    "Ember",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Supersonic",
+    "Withdraw",
+    "Spike Cannon",
+    "Harden",
+    "Tackle",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Thunder",
+    "Bite",
+    "Absorb",
+    "Mega Drain"
+   ]
+  },
+  {
+   "episode": 47,
+   "code": "EP047",
+   "title": "A Chansey Operation",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Chansey",
+     "dex": 113
+    },
+    {
+     "name": "Nidorina",
+     "dex": 30
+    },
+    {
+     "name": "Nidorino",
+     "dex": 33
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Egg Bomb",
+    "Double Kick",
+    "Horn Attack",
+    "Gust",
+    "Flamethrower",
+    "Water Gun",
+    "Vine Whip",
+    "Bind",
+    "Ember",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Softboiled",
+    "Poison Sting",
+    "Whirlwind",
+    "Slash",
+    "Tackle",
+    "Quick Attack",
+    "Disable",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Doubleslap",
+    "Bite",
+    "Scary Face",
+    "Withdraw",
+    "Leech Seed"
+   ]
+  },
+  {
+   "episode": 48,
+   "code": "EP048",
+   "title": "Holy Matrimony!",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Ekans",
+     "dex": 23
+    },
+    {
+     "name": "Koffing",
+     "dex": 109
+    },
+    {
+     "name": "Arbok",
+     "dex": 24
+    },
+    {
+     "name": "Weezing",
+     "dex": 110
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Lickitung",
+     "dex": 108
+    },
+    {
+     "name": "Gyarados",
+     "dex": 130
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Lick",
+    "Hyper Beam",
+    "Flamethrower",
+    "Water Gun",
+    "Vine Whip",
+    "Gust",
+    "Bind",
+    "Ember",
+    "Confusion",
+    "Thunderbolt",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Dragon Rage",
+    "Slash",
+    "Tackle",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Thunder",
+    "Bite",
+    "Pay Day",
+    "Supersonic",
+    "Hydro Pump",
+    "Scary Face",
+    "Withdraw"
+   ]
+  },
+  {
+   "episode": 49,
+   "code": "EP049",
+   "title": "So Near, Yet So Farfetch'd",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Farfetch'd",
+     "dex": 83
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Arbok",
+     "dex": 24
+    },
+    {
+     "name": "Weezing",
+     "dex": 110
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Lickitung",
+     "dex": 108
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Fury Cutter",
+    "Flamethrower",
+    "Water Gun",
+    "Vine Whip",
+    "Gust",
+    "Bind",
+    "Ember",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Lick",
+    "Thunderbolt",
+    "Peck",
+    "Slash",
+    "Tackle",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Swords Dance",
+    "Scary Face",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Tail Whip"
+   ]
+  },
+  {
+   "episode": 50,
+   "code": "EP050",
+   "title": "Who Gets to Keep Togepi?",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Togepi",
+     "dex": 175
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Arbok",
+     "dex": 24
+    },
+    {
+     "name": "Weezing",
+     "dex": 110
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Lickitung",
+     "dex": 108
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Metronome",
+    "Flamethrower",
+    "Water Gun",
+    "Vine Whip",
+    "Gust",
+    "Bind",
+    "Ember",
+    "Confusion",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Lick",
+    "Thunderbolt",
+    "Charm",
+    "Slash",
+    "Tackle",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Scary Face",
+    "Withdraw",
+    "Leech Seed",
+    "Rock Throw",
+    "Tail Whip",
+    "Harden"
+   ]
+  },
+  {
+   "episode": 51,
+   "code": "EP051",
+   "title": "Bulbasaur's Mysterious Garden",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Ivysaur",
+     "dex": 2
+    },
+    {
+     "name": "Venusaur",
+     "dex": 3
+    },
+    {
+     "name": "Oddish",
+     "dex": 43
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Pidgeotto",
+     "dex": 17
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Togepi",
+     "dex": 175
+    },
+    {
+     "name": "Arbok",
+     "dex": 24
+    },
+    {
+     "name": "Weezing",
+     "dex": 110
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Vine Whip",
+    "Solarbeam",
+    "Absorb",
+    "Flamethrower",
+    "Water Gun",
+    "Gust",
+    "Bind",
+    "Ember",
+    "Confusion",
+    "Metronome",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Thunderbolt",
+    "Tackle",
+    "Razor Leaf",
+    "Acid",
+    "Slash",
+    "Whirlwind",
+    "Quick Attack",
+    "Disable",
+    "Charm",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Thunder",
+    "Leech Seed",
+    "Petal Dance",
+    "Poisonpowder"
+   ]
+  },
+  {
+   "episode": 52,
+   "code": "EP052",
+   "title": "Princess vs. Princess",
+   "pokemon": [
+    {
+     "name": "Pikachu",
+     "dex": 25
+    },
+    {
+     "name": "Lickitung",
+     "dex": 108
+    },
+    {
+     "name": "Starmie",
+     "dex": 121
+    },
+    {
+     "name": "Staryu",
+     "dex": 120
+    },
+    {
+     "name": "Goldeen",
+     "dex": 118
+    },
+    {
+     "name": "Psyduck",
+     "dex": 54
+    },
+    {
+     "name": "Togepi",
+     "dex": 175
+    },
+    {
+     "name": "Arbok",
+     "dex": 24
+    },
+    {
+     "name": "Weezing",
+     "dex": 110
+    },
+    {
+     "name": "Meowth",
+     "dex": 52
+    },
+    {
+     "name": "Charmeleon",
+     "dex": 5
+    },
+    {
+     "name": "Squirtle",
+     "dex": 7
+    },
+    {
+     "name": "Bulbasaur",
+     "dex": 1
+    },
+    {
+     "name": "Onix",
+     "dex": 95
+    },
+    {
+     "name": "Vulpix",
+     "dex": 37
+    },
+    {
+     "name": "Nidorina",
+     "dex": 30
+    },
+    {
+     "name": "Jigglypuff",
+     "dex": 39
+    }
+   ],
+   "moves": [
+    "Thundershock",
+    "Lick",
+    "Water Gun",
+    "Horn Attack",
+    "Confusion",
+    "Metronome",
+    "Wrap",
+    "Smokescreen",
+    "Fury Swipes",
+    "Flamethrower",
+    "Vine Whip",
+    "Bind",
+    "Ember",
+    "Double Kick",
+    "Sing",
+    "Thunderbolt",
+    "Tackle",
+    "Supersonic",
+    "Disable",
+    "Charm",
+    "Poison Sting",
+    "Sludge",
+    "Scratch",
+    "Slash",
+    "Quick Attack",
+    "Pound",
+    "Thunder",
+    "Swift",
+    "Harden",
+    "Waterfall"
+   ]
+  }
+ ],
+ "note": "Edit freely: each episode lists the Pokémon that appear (name + National Dex number for the sprite) and moves used by or fitting those Pokémon. 'events' fill empty squares when an episode has fewer than 16 Pokémon.",
+ "events": [
+  "Team Rocket blasts off again!",
+  "Team Rocket motto",
+  "Nurse Joy",
+  "Officer Jenny",
+  "Brock falls in love",
+  "Pikachu refuses a Poké Ball",
+  "Ash checks his Pokédex",
+  "Misty yells at Ash",
+  "Professor Oak calls",
+  "Meowth talks",
+  "Someone gets shocked by Pikachu",
+  "Ash earns a badge",
+  "A Pokémon evolves",
+  "Ash catches a Pokémon",
+  "Who's That Pokémon?",
+  "Pokémon Center visit"
+ ]
+}
